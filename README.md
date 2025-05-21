@@ -4,9 +4,11 @@ A Spring Boot-based backend application for an e-commerce platform focused on se
 
 ---
 
-## THanks :
-Thanks to KK from appsforbharth for guiding in the project . 
-----
+# Thanks and credits 
+
+A big thanks to KK from appsforBharth fro helping me and  guiding me in the project .
+
+---
 
 ## 🚀 Tech Stack
 
